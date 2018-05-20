@@ -45,7 +45,7 @@ JavaScript Weekly: 
 https://javascriptweekly.com
 
 ES.next News: 
-https://javascriptweekly.com
+http://esnextnews.com
 
 RWD Weekly:
  http://responsivedesignweekly.com
