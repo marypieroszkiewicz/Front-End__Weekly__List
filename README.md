@@ -17,6 +17,9 @@ https://fridayfrontend.curated.co/issues
 Infinum FrontendCookies:
 https://frontendcookies.ongoodbits.com
 
+Frontend Weekly Digest:
+https://medium.com/@frontender_ua
+
 Web Dev Weekly:
  http://www.webdevweekly.com
 
