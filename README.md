@@ -56,6 +56,9 @@ RWD Weekly:
 Mobile Web Weekly:
  http://mobilewebweekly.co
 
+StatusCode Weekly:
+https://weekly.statuscode.com
+
 Smashing Magazine: 
 https://www.smashingmagazine.com/the-smashing-newsletter
 
