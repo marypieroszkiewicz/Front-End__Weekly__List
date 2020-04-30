@@ -62,6 +62,9 @@ https://weekly.statuscode.com
 Smashing Magazine: 
 https://www.smashingmagazine.com/the-smashing-newsletter
 
+freeCodeCamp News
+https://www.freecodecamp.org/news/tag/frontend/
+
 Alligator.io
 https://www.getrevue.co/profile/alligatorio
 
